@@ -30,9 +30,10 @@ https://docs.google.com/spreadsheets/d/1rSCXAKx7Pvd_FTYy3JIBdVTJTm-KZongre1eOOFi
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
-regular frame:
-https://res.cloudinary.com/dwbqzx4rr/image/upload/v1583615349/mobileWireframe_robscf.jpg
 mobile frame:
+https://res.cloudinary.com/dwbqzx4rr/image/upload/v1583615349/mobileWireframe_robscf.jpg
+
+regular frame:
 https://res.cloudinary.com/dwbqzx4rr/image/upload/v1583615323/regularFrame2_1_lvihd7.jpg
 
 [https://www.figma.com/](https://www.figma.com/)
