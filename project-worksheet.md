@@ -24,9 +24,16 @@ Use this section to describe your final project and perhaps any links to relevan
 
 Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
 
+Here is my link to the google sheet
+https://docs.google.com/spreadsheets/d/1rSCXAKx7Pvd_FTYy3JIBdVTJTm-KZongre1eOOFiX9Y/edit#gid=0
+
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
+regular frame:
+https://res.cloudinary.com/dwbqzx4rr/image/upload/v1583615349/mobileWireframe_robscf.jpg
+mobile frame:
+https://res.cloudinary.com/dwbqzx4rr/image/upload/v1583615323/regularFrame2_1_lvihd7.jpg
 
 [https://www.figma.com/](https://www.figma.com/)
 [https://mockflow.com/app/#Wireframe](https://mockflow.com/app/#Wireframe)
