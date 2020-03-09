@@ -43,9 +43,11 @@ https://docs.google.com/spreadsheets/d/1rSCXAKx7Pvd_FTYy3JIBdVTJTm-KZongre1eOOFi
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 mobile frame:
+https://www.figma.com/file/EEV1aKhSTpUEpc1IlKy4sZ/My-Portfolio-Mobile-Wireframe?node-id=2%3A0
 https://res.cloudinary.com/dwbqzx4rr/image/upload/v1583615349/mobileWireframe_robscf.jpg
 
 regular frame:
+https://www.figma.com/file/BCFMRKjDYLFTtqFHLUjq7S/Portfolio-Wireframe?node-id=0%3A1
 https://res.cloudinary.com/dwbqzx4rr/image/upload/v1583615323/regularFrame2_1_lvihd7.jpg
 
 [https://www.figma.com/](https://www.figma.com/)
@@ -68,17 +70,14 @@ https://res.cloudinary.com/dwbqzx4rr/image/upload/v1583627580/IMG_20200307_16293
 
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
-MVP List: Hamburger navigation, regular navigation, set up html in flex and make sections, responsive, make project section, API, form, social media icons, and project preview changes when hovered over.
 #### MVP (examples)
 
-- Pull data using google json api
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+MVP List: Hamburger navigation, regular navigation, set up html in flex and make sections, responsive, make project section, API, form, social media icons, and project preview changes when hovered over.
+
 
 #### PostMVP 
 PostMVP List: Learn Bootstrap, Materialize, make letters wiggle in banner, make banner interactive, make my own icon, carousel. 
-- Anything else that is not MVP
+
 
 ## Functional Components
 
