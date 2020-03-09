@@ -1,5 +1,11 @@
 
+//setting up hamburger navigation
+let $nav = $("#nav")
 
+$nav.on('click', ()=>{
+  $("nav").css('display', 'block')
+}
+)
 
 let $projects = $("#projects")
 //getting data from json

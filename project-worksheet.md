@@ -67,7 +67,9 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP
 
-MVP List: Hamburger navigation, regular navigation, set up html in flex, responsive, make project section, API, form, make other sections, social media icons, and project preview changes when hovered over.
+MVP List:
+[x] Hamburger navigation
+[ ] regular navigation, set up html in flex, responsive, make project section, API, form, make other sections, social media icons, and project preview changes when hovered over.
 
 
 #### PostMVP
@@ -87,7 +89,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Regular Nav | MVP | 1hr | -hr | -hr|
 | Adding Form | MVP | 1.5hr| -hr | -hr |
 | Other sections and flex| MVP | 4hr | -hr | -hr|
-| Working with API | MVP | 3hrs| 2.5hrs | 2.5hrs |
+| Working with API | MVP | 3hrs| -hr | -hr |
 | Responsive | MVP | 3hr | -hr | -hr|
 | Social Media Icons | MVP | 1hr | -hr | -hr|
 | Project Hover | PMVP | 3hr | -hr | -hr|
@@ -96,7 +98,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Materialize | PMVP | 4hr | -hr | -hr|
 | Bootstrap | PMVP | 4hr | -hr | -hr|
 | Make own icon | PMVP | 4hr | -hr | -hr|
-| Total | H | 39.5hrs| 5hrs | 5hrs |
+| Total | H | 39.5hrs| -hrs | -hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and their role in the project.
