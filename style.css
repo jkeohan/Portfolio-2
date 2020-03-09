@@ -1,8 +1,8 @@
 *{
   box-sizing: border-box;
 }
-body {
-
+#wrapper {
+  margin: 0 auto;
 }
  header {
    display: flex;
