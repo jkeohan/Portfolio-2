@@ -8,7 +8,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description/Google Sheet/Wifeframes/Priority and Timeline | Incomplete
+|Day 1| Project Description/Google Sheet/Wifeframes/Priority and Timeline | Complete
 |Day 2| Set Up HTML, CSS, and Javascript | Incomplete
 |Day 3| Responsive Web Design | Incomplete
 |Day 4| MVP & Bug Fixes | Incomplete
@@ -20,13 +20,35 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 
+My final project will have a navigation bar with my name to the left and the page navigations to the right. I really like Matt Farley's profile and he has his own icon to the left of his navigation. If I have time, I would like to make my own icon. Like Eloise Barrow's website, the navigation bar will stay at the top when the user scrolls and change the hihglighted portion based on which part they are at. Just like Jessica and Eloise, my portofolio will be one page and the navigation bar will take the user down the page to the part the user clicked on. Under my navigation, I want something that gets people's attention. I really like how the profile from https://jacekjeznach.com/ starts and how the letters also react when the mouse hovers over them. I would like to add a banner under the navigation with my job title and the letter reacting under the mouse hover. My about section will include a photo and brief description of myself. Like Matt Farley, I want 3 projects in each row in my projects section. There will be a preview image of each project and the preview will change when the user hovers over each item. I want the hover to reveal which skills I used in each project. I got this idea of having the skills from Andrew Hollingworth's profile, however I want a hover effect like Matt Farley's profile. Next I will have a contact section with a form and my social media icons, and then a footer to end the page.
+
+https://mattfarley.ca/
+
+http://eloise-ress-barrow.surge.sh/#writing
+
+https://jessicalandzberg.github.io/Unit_1_Project/#myJourney0
+
+http://andrewhollingworth.com/
+
+https://jacekjeznach.com/
+
 ## Google Sheet
 
 Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
 
+Here is my link to the google sheet
+https://docs.google.com/spreadsheets/d/1rSCXAKx7Pvd_FTYy3JIBdVTJTm-KZongre1eOOFiX9Y/edit#gid=0
+
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
+mobile frame:
+https://www.figma.com/file/EEV1aKhSTpUEpc1IlKy4sZ/My-Portfolio-Mobile-Wireframe?node-id=2%3A0
+https://res.cloudinary.com/dwbqzx4rr/image/upload/v1583615349/mobileWireframe_robscf.jpg
+
+regular frame:
+https://www.figma.com/file/BCFMRKjDYLFTtqFHLUjq7S/Portfolio-Wireframe?node-id=0%3A1
+https://res.cloudinary.com/dwbqzx4rr/image/upload/v1583615323/regularFrame2_1_lvihd7.jpg
 
 [https://www.figma.com/](https://www.figma.com/)
 [https://mockflow.com/app/#Wireframe](https://mockflow.com/app/#Wireframe)
@@ -41,20 +63,20 @@ Now create a separate list starting with A and assign it one of the features.  C
 
 Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo. 
 
+Total number of hours: 39.5 hours
+
 ### MVP/PostMVP - 5min
 
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP (examples)
 
-- Pull data using google json api
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+MVP List: Hamburger navigation, regular navigation, set up html in flex, responsive, make project section, API, form, make other sections, social media icons, and project preview changes when hovered over.
+
 
 #### PostMVP 
+PostMVP List: Learn Bootstrap, Materialize, make letters wiggle in banner, make banner interactive, make my own icon, carousel. 
 
-- Anything else that is not MVP
 
 ## Functional Components
 
