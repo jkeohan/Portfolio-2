@@ -64,7 +64,6 @@ Now create a separate list starting with A and assign it one of the features.  C
 Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo. 
 
 Total number of hours: 39.5 hours
-https://res.cloudinary.com/dwbqzx4rr/image/upload/v1583627580/IMG_20200307_162939_skjayk.jpg
 
 ### MVP/PostMVP - 5min
 
@@ -72,7 +71,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP (examples)
 
-MVP List: Hamburger navigation, regular navigation, set up html in flex and make sections, responsive, make project section, API, form, social media icons, and project preview changes when hovered over.
+MVP List: Hamburger navigation, regular navigation, set up html in flex, responsive, make project section, API, form, make other sections, social media icons, and project preview changes when hovered over.
 
 
 #### PostMVP 
