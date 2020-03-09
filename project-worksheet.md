@@ -68,8 +68,8 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 #### MVP
 
 MVP List:
-[x] Hamburger navigation
-[ ] regular navigation, set up html in flex, responsive, make project section, API, form, make other sections, social media icons, and project preview changes when hovered over.
+- [x] Hamburger navigation
+- [ ] regular navigation, set up html in flex, responsive, make project section, API, form, make other sections, social media icons, and project preview changes when hovered over.
 
 
 #### PostMVP
