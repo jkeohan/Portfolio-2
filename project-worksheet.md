@@ -82,12 +82,24 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Hamburger | MVP | 1hr | -hr | -hr|
+| Project Previews | MVP | 3hr | -hr | -hr|
+| Regular Nav | MVP | 1hr | -hr | -hr|
+| Adding Form | MVP | 1.5hr| -hr | -hr |
+| Other sections and flex| MVP | 4hr | -hr | -hr|
+| Working with API | MVP | 3hrs| 2.5hrs | 2.5hrs |
+| Responsive | MVP | 3hr | -hr | -hr|
+| Social Media Icons | MVP | 1hr | -hr | -hr|
+| Project Hover | PMVP | 3hr | -hr | -hr|
+| Banner letters wiggle | PMVP | 1hr | -hr | -hr|
+| Interactive Banner | PMVP | 4hr | -hr | -hr|
+| Materialize | PMVP | 4hr | -hr | -hr|
+| Bootstrap | PMVP | 4hr | -hr | -hr|
+| Make own icon | PMVP | 4hr | -hr | -hr|
+| Total | H | 39.5hrs| 5hrs | 5hrs |
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project.
+ Use this section to list all supporting libraries and their role in the project.
 
 ## Code Snippet
 
