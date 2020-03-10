@@ -69,11 +69,25 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 MVP List:
 - [x] Hamburger navigation
-- [ ] regular navigation, set up html in flex, responsive, make project section, API, form, make other sections, social media icons, and project preview changes when hovered over.
+- [ ] regular navigation
+- [x] set up html in flex
+- [ ] responsive
+- [ ] make project section
+- [x] API
+- [ ] form
+- [ ] make other sections
+- [ ] social media icons
+- [ ] project preview changes when hovered over
 
 
 #### PostMVP
-PostMVP List: Learn Bootstrap, Materialize, make letters wiggle in banner, make banner interactive, make my own icon, carousel.
+PostMVP List:
+- [ ] Learn Bootstrap
+- [ ] Materialize
+- [ ] make letters wiggle in banner
+- [ ]make banner interactive
+- [ ]make my own icon
+- [ ]carousel
 
 
 ## Functional Components
@@ -84,12 +98,12 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Hamburger | MVP | 1hr | -hr | -hr|
+| Hamburger | MVP | 1hr | 1.5hr | -hr|
 | Project Previews | MVP | 3hr | -hr | -hr|
 | Regular Nav | MVP | 1hr | -hr | -hr|
 | Adding Form | MVP | 1.5hr| -hr | -hr |
-| Other sections and flex| MVP | 4hr | -hr | -hr|
-| Working with API | MVP | 3hrs| -hr | -hr |
+| Other sections and flex| MVP | 4hr | 2hr | -hr|
+| Working with API | MVP | 3hrs| 2hr | -hr |
 | Responsive | MVP | 3hr | -hr | -hr|
 | Social Media Icons | MVP | 1hr | -hr | -hr|
 | Project Hover | PMVP | 3hr | -hr | -hr|

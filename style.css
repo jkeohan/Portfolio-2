@@ -1,34 +1,116 @@
+/* import texts */
+@import url('https://fonts.googleapis.com/css?family=Exo|Merriweather&display=swap');
+
 *{
   box-sizing: border-box;
 }
 #wrapper {
   margin: 0 auto;
+  font-family: 'Exo', sans-serif;
 }
  header {
    display: flex;
+
+   flex-wrap: wrap;
  }
  h1 {
-   flex: 1;
+   width: 80%;
+   font-family:'Open Sans', serif;
+   font-size: 60px;
+   padding: 0 20px;
  }
-#nav div {
-  height: 5px;
-  width: 50px;
-  background-color: black;
-  margin: 10px 10px;
+#nav {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+
 }
- nav {
+#nav div {
+  height: 7px;
+  width: 60px;
+  background-color: black;
+  margin: 5px 30px;
+  border-radius: 5px;
+}
+nav {
+  flex: 1;
+  margin: 0 30px;
+}
+ nav ul{
+   text-align: right;
    display: none;
+   list-style-type: none;
+ }
+ nav li {
+   padding: 15px 0;
+ }
+ nav ul a {
+   text-decoration: none;
+   color: black;
+   font-size: 38px;
+ }
+ nav ul a:hover {
+   color: #1E82A1;
+ }
+ ul.nav-active {
+  display: block;
+}
+main div {
+  padding: 10px 0;
+}
+#home {
+   background-image: url('background.jpg');
+   background-size: cover;
+   border-radius: 10px;
+   text-align: center;
+   padding: 65% 0;
+   height: 90vh;
+   font-size: 60px;
+   font-weight: bold;
+   color: white;
+   text-transform: uppercase;
+ }
+ h2 {
+   text-align: center;
+   font-size: 50px;
+ }
+ #about {
+   text-align: center;
+   padding: 10px 20px;
  }
 
+ #about p {
+   height: 50vh;
+   text-align: left;
+   font-size: 40px;
+ }
+#about img {
+  border-radius: 300px;
+  height: 40vh;
+  width: 30vh;
+  margin: 20px 0;
+
+}
 #projects {
   display: flex;
   flex-direction: column;
   align-items: center;
 
 }
-img {
-  border: 5px solid black;
+#projects img {
   width: 700px;
   height: 500px;
   margin: 50px 0;
+  height: 40vh;
+  width: 50vh;
+  box-shadow: 10px 10px 10px gray;
+}
+img:hover {
+  cursor: pointer;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
 }

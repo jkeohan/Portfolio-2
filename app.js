@@ -2,8 +2,8 @@
 //setting up hamburger navigation
 let $nav = $("#nav")
 
-$nav.on('click', ()=>{
-  $("nav").css('display', 'block')
+$nav.click(function(){
+  $("ul").toggleClass('nav-active')
 }
 )
 
@@ -30,13 +30,13 @@ fetch(source)
    app(project)
 })
 function app(project) {
-  for(j=0; j<project.length; j++){
+  for(j=0; j<6; j++){
+    let $a = $("<a>")
+    $a.attr('href', project[j].url).attr('target', '_blank')
+    $projects.append($a)
     let $img = $("<img>")
-    $img.html('project here')
-    console.log(project[j])
-    let $image = project[j]
-    $img.attr('src', $image.image)
-    $projects.append($img)
+    $img.attr('src', project[j].image)
+    $a.append($img)
   }
   console.log('app-projects', projects)
 }
